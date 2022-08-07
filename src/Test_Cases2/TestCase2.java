@@ -7,5 +7,9 @@ public class TestCase2 {
 
         //made more test
 
+        //positive testing
+
+        //negative testing
+
     }
 }
